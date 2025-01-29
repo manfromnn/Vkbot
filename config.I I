@@ -1,0 +1,13 @@
+[VK]
+ACCESS_TOKEN = ваш_токен
+TARGET_GROUP_ID = -1234567
+REGION_ID = 1
+
+[SEARCH]
+GROUP_KEYWORDS = ["развлечения", "новости"]
+POST_KEYWORDS = ["акция", "мероприятие"]
+
+[SETTINGS]
+MAX_GROUPS = 5
+DAYS_AGO = 2
+CHECK_INTERVAL = 900
